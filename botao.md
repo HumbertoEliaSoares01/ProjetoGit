@@ -6,7 +6,7 @@
 # git checkout -b "novo botao"
 ## acontecem apenas na nova branch e 
 ## não afetam a branch main.
-<hd>
+
 ## Para mandar as alterações pro repositório remoto (Git-Hub)
 ## ocomando push passa a ser assim:
 # git push origin novo-botao

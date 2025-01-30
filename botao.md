@@ -8,5 +8,9 @@
 ## não afetam a branch main.
 
 ## Para mandar as alterações pro repositório remoto (Git-Hub)
-## ocomando push passa a ser assim:
+## o comando push passa a ser assim:
 # git push origin novo-botao
+
+# git checkout main
+# git merge novo-botao
+# git push origin main
